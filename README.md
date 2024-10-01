@@ -23,7 +23,6 @@
 <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" height="25" /></a>  
 <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" height="25" /></a>  
 <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D" alt="OVH" height="25" /></a>  
-<a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" height="25" /></a>  
 <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="25" /></a>  
 <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)" alt="Electron.js" height="25" /></a>  
 <a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" height="25" /></a>  
