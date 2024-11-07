@@ -53,9 +53,9 @@
 
 ##  Social
 <div align="center">  
-<a href="https://instagram.com/0xAn4s" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="25" /></a>  
+<a href="https://instagram.com/AnasAlmutary" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="25" /></a>  
 <a href="https://www.reddit.com/user/0xAn4s/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" height="25" /></a>  
-<a href="https://twitter.com/0xAn4s" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" height="25" /></a>  
+<a href="https://twitter.com/AnasAlmutary" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" height="25" /></a>  
 <a href="https://stackoverflow.com/users/22734565/anas" target="_blank"><img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow alt="StackOverFlow" height="25" /></a>  
 <a href="https://github.com/An4s0" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt='Github' /></a>
 </div>  
