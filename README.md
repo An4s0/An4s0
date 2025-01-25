@@ -1,7 +1,3 @@
-<div align="center">
-   <img src="https://raw.githubusercontent.com/An4s0/github-stats-remotion/main/out/readme.gif">
-</div>
-
 ### Tech Stack
 Here are the technologies I work with:
 
