@@ -1,22 +1,3 @@
-### Tech Stack
-Here are the technologies I work with:
-
-#### **Frontend**
-- **HTML**, **CSS**, **JavaScript**
-- **React**, **Next.js**, **TailwindCSS**
-
-#### **Backend**
-- **Node.js**, **Express**, **Python**
-- **Java**, **Next.js**, **C++**, **TypeScript**
-
-#### **Databases**
-- **MySQL**, **MongoDB**, **SQL**
-
-#### **Tools**
-- **Git**, **VS Code**, **Postman**
-
----
-
 ### GitHub Stats
 
 <div align="center">
