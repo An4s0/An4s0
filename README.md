@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://i8i.pw">website</a> • 
-  📂 <a href="https://github.com/An4s0/i8i/">repo</a>
+  <a href="https://i8i.pw">website</a> • 
+  <a href="https://github.com/An4s0/i8i/">repo</a>
 </p>
 
 ### Technologies Used
