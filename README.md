@@ -37,4 +37,32 @@
 - **Express** – Web framework for Node.js
 - **MongoDB** – NoSQL database
 
+<br/><br/>
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/An4s0/An4s0/12eb079a5f2fac68ea78dae8d3e699176ae834f8/images/ideelab.svg" alt="Project Logo" width="80" />
+	<h3>IdeeLab</h3>
+	<p>A platform for daily coding challenges to level up your programming skills.</p>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/An4s0/ideelab?style=flat&logo=github&color=6e3bf3" />
+  <img src="https://img.shields.io/github/forks/An4s0/ideelab?style=flat&logo=github&color=6e3bf3" />
+  <img src="https://img.shields.io/github/issues/An4s0/ideelab?style=flat&logo=github&color=6e3bf3" />
+  <img src="https://wakatime.com/badge/user/c37fea69-8c86-4205-9209-c2aa69dcb0ab/project/c932e63f-507f-4a77-8b02-ad5b8b0c87a7.svg?style=flat&color=6e3bf3" alt="wakatime" />
+</p>
+
+<p align="center">
+  <a href="https://example.com">website</a> • 
+  <a href="https://github.com/An4s0/ideelab/">repo</a>
+</p>
+
+### Technologies Used
+
+- **Next.js** – React framework
+- **TypeScript** – Type safety for JavaScript
+- **Tailwind CSS** – Utility-first CSS framework
+- **Express** – Web framework for Node.js
+- **MongoDB** – NoSQL database
+
 <br/><br/><br/>
