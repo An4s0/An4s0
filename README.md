@@ -11,7 +11,7 @@
 ## Projects
 
 <div align="center">
-  <img src="https://i8i.pw/logo.svg" alt="Project Logo" width="80" />
+  <img src="https://raw.githubusercontent.com/An4s0/An4s0/a61baa646bdf544b7adac7b8952b8be6773bd1d3/images/i8i.svg" alt="Project Logo" width="80" />
 	<h3>i8i - URL Shortener</h3>
 	<p>Powerful open-source URL shortener with analytics, password protection, and expiration settings.</p>
 </div>
