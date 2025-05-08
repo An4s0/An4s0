@@ -30,12 +30,7 @@
 
 ### Technologies Used
 
-- **Next.js** – React framework
-- **TypeScript** – Type safety for JavaScript
-- **Tailwind CSS** – Utility-first CSS framework
-- **Recharts** – Charting library
-- **Express** – Web framework for Node.js
-- **MongoDB** – NoSQL database
+![](https://skillicons.dev/icons?i=nextjs,ts,tailwind,express,mongodb)
 
 <br/><br/>
 ---
@@ -59,10 +54,6 @@
 
 ### Technologies Used
 
-- **Next.js** – React framework
-- **TypeScript** – Type safety for JavaScript
-- **Tailwind CSS** – Utility-first CSS framework
-- **Express** – Web framework for Node.js
-- **MongoDB** – NoSQL database
+![](https://skillicons.dev/icons?i=nextjs,ts,tailwind,express,mongodb)
 
 <br/><br/><br/>
