@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" stroke="currentColor" fill="none" stroke-width="0">
+  <rect width="1024" height="1024" rx="158" fill="#007fff"/>
+
+  <!-- i left -->
+  <rect width="165" height="578" rx="41" fill="#fff" x="82" y="322"/>
+  <circle cx="165" cy="198" r="82" fill="#fff" />
+
+  <!-- i right -->
+  <rect  width="165" height="578" rx="41" fill="#fff" x="776" y="322"/>
+  <circle cx="858" cy="198" r="82" fill="#fff" />
+
+  <!-- number 8 -->
+  <text x="511" y="900" font-size="941" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-weight="bold">8</text>
+</svg>
