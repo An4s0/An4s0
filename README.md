@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <a href="https://example.com">website</a> • 
+  <a href="https://ideelab.cc">website</a> • 
   <a href="https://github.com/An4s0/ideelab/">repo</a>
 </p>
 
