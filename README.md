@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=An4s0&style=flat&abbreviated=true&color=6E3BF3" alt="profile views count" />
   <img src="https://wakatime.com/badge/user/c37fea69-8c86-4205-9209-c2aa69dcb0ab.svg?style=flat&color=6e3bf3" alt="wakatime" />
 </p>
